@@ -11,9 +11,9 @@ Als je het niet weer mag het ook van eten dat je lekker vindt *zucht*
 # Opdracht 2
 ## Verander deze zin
 
--   Crazy, Crazy I was crazy ones
-    They locked me in a room
-    A rubber room, A rubber room with rats
-    And rats make me crazy
+-   Crazy, Crazy Celine was crazy once
+    We locked her in a room
+    A rubber room, A rubber room with us
+    And we make Celine crazy
 
 ## Als je het heb aangepast commit je deze verandering
